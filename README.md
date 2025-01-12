@@ -8,7 +8,7 @@ A simple and interactive Rock, Paper, Scissors game built with HTML, CSS, and Ja
 - Tracks the score for both the player and the computer.
 
 ## Demo
-[http://127.0.0.1:5500/](#) (Replace `#` with your actual hosted link, if available.)
+[Live Demo](http://127.0.0.1:5500/)
 
 ---
 
